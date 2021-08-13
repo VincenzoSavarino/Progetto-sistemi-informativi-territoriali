@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/buoy-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/commons-imaging-1.0-alpha2.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/cts-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jai_codec-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jai_core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jai_imageio-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jdom2-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jmatharray-20070905.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jmathplot-20070905.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jts-core-1.14.0.jar" sourcepath="/Users/vincenzo/Documents/Unipd LM/sit/jts-1.13.zip"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jts-io-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/jython-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/OpenJUMP-1.16-r6669-nosrc.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/org-netbeans-swing-outline-7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/postgresql-42.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/xmlParserAPIs-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Desktop/OpenJUMP 1.16 rev.6669 CORE.app/lib/xz-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/vincenzo/Documents/Unipd LM/sit/lab/lab3/jts-1.13.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench-state>
+  <properties>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - SUMMARY_PAINT_AREA</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - LINE_PAINT</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_POINT_FORM</key>
+      <value class="java.lang.String">SQUARE</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - FILL_PAINT</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - WIDTH_KEY</key>
+      <value class="java.lang.Integer">1280</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_PAINT_DISTANCE</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - HEIGHT_KEY</key>
+      <value class="java.lang.Integer">713</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FOLLOWING_COLOR</key>
+      <value class="java.awt.Color">255, 0, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.view.ViewOptionsPlugIn - DATE_FORMAT_KEY</key>
+      <value class="java.lang.String">yyyy-MM-dd HH:mm:ss.SSS</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.network.ProxySettingsOptionsPanel-ReadTimeout</key>
+      <value class="java.lang.Integer">5000</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SELECT_NEW_GEOMETRY</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">CONSTRAIN_INCREMENTAL_ANGLE - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">CONSTRAIN_ANGLE - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datastore.ConnectionManager - CONNECTION DESCRIPTORS</key>
+      <value class="java.util.ArrayList" />
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - SUMMARY_FONT_COLOR</key>
+      <value class="java.awt.Color">0, 0, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FOLLOWING_SIZE</key>
+      <value class="java.lang.Integer">5</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_SIZE_WIDTH</key>
+      <value class="java.lang.Integer">500</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.network.ProxySettingsOptionsPanel-Enabled</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - SUMMARY_FONT</key>
+      <value class="java.awt.Font">Dialog, 0, 24</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - HORIZONTAL_KEY</key>
+      <value class="java.lang.Integer">0</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToFeaturesPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">class com.vividsolutions.jump.workbench.ui.snap.GridRenderer - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.SaveProjectAsPlugIn - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/Users/vincenzo/Documents</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToGridPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SELECT_INFO_GEOMETRY</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FONT</key>
+      <value class="java.awt.Font">Dialog, 0, 12</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - MAXIMIZED_KEY</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_FILL_OPACITY</key>
+      <value class="java.lang.Integer">75</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToVerticesPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.EditTransaction - ROLLING_BACK_INVALID_EDITS</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - SUMMARY_PAINT_LENGTH</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.DatasetOptionsPanelSHOW_CHARSET_SELECTION</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FIRST_SIZE</key>
+      <value class="java.lang.Integer">10</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">LENGTH_CONSTRAINT</key>
+      <value class="java.lang.Double">0.5</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">ABSOLUTE_ANGLE_CONSTRAINT</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">INCREMENTAL_ANGLE_CONSTRAINT</key>
+      <value class="java.lang.Integer">8</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_PAINT</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.view.EasyPanelEZ_LIST_KEY</key>
+      <value class="java.util.HashMap" />
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToLineStringBeingEditedPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapManager - TOLERANCE IN PIXELS</key>
+      <value class="java.lang.Integer">10</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_FILL_COLOR</key>
+      <value class="java.awt.Color">255, 255, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FOLLOWING_FORM</key>
+      <value class="java.lang.String">SQUARE</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - VERTICAL_KEY</key>
+      <value class="java.lang.Integer">25</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - LINE_COLOR</key>
+      <value class="java.awt.Color">255, 0, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">class com.vividsolutions.jump.workbench.ui.snap.GridRenderer - DOTS ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.view.ViewOptionsPlugIn - SELECTION_SYNCHRONIZATION</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">class com.vividsolutions.jump.workbench.ui.plugin.skin.SkinOptionsPanel - CURRENT SKIN</key>
+      <value class="java.lang.String">javax.swing.plaf.metal.MetalLookAndFeel</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">CONSTRAIN_LENGTH - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - FILL_COLOR</key>
+      <value class="java.awt.Color">255, 0, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - DESKTOPSTATUS_DIVIDER_LOCATION</key>
+      <value class="java.lang.Integer">630</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToGridPolicy - GRID_SIZE</key>
+      <value class="java.lang.Double">20.0</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_POINT_SIZE</key>
+      <value class="java.lang.Integer">5</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.LoadFileDataSourceQueryChooser - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/progetto/dati/3857</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FIRST_COLOR</key>
+      <value class="java.awt.Color">255, 200, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - LAYER_TOOLTIPS</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_SIZE_HEIGHT</key>
+      <value class="java.lang.Integer">300</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SINGLE_EDITABLE_LAYER</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.network.ProxySettingsOptionsPanel-ConnectionTimeout</key>
+      <value class="java.lang.Integer">20000</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">RELATIVE_ANGLE_CONSTRAINT</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FIRST_FORM</key>
+      <value class="java.lang.String">SQUARE</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_POSITION_Y</key>
+      <value class="java.lang.Integer">318</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_FONT_COLOR</key>
+      <value class="java.awt.Color">0, 0, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_POSITION_X</key>
+      <value class="java.lang.Integer">10</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_2</key>
+      <value class="java.lang.Integer">200</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_3</key>
+      <value class="java.lang.Integer">100</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_COLOR</key>
+      <value class="java.awt.Color">255, 255, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_4</key>
+      <value class="java.lang.Integer">100</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">class com.vividsolutions.jump.workbench.ui.snap.GridRenderer - LINES ENABLED</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.file.OpenRecentPlugIn.PROJECTS</key>
+      <value class="java.util.LinkedHashSet" />
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.network.ProxySettingsOptionsPanel-Settings</key>
+      <value class="org.saig.jump.widgets.config.HTTPProxySettings">
+        <proxySettings host="" port="" user="" pass="" direct="" />
+      </value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">ANGLE_CONSTRAINT</key>
+      <value class="java.lang.Double">30.0</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.tools.AdvancedMeasureOptionsPanel - VERTEX_PAINT_DISTANCE_RELATIVE</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.file.OpenRecentPlugIn.FILES</key>
+      <value class="java.util.LinkedHashSet">
+        <item class="java.lang.String">/Applications/XAMPP/xamppfiles/htdocs/Progetto-Sit/openJ/3857/Rimessa3857.shp</item>
+        <item class="java.lang.String">/Applications/XAMPP/xamppfiles/htdocs/Progetto-Sit/openJ/3857/Strade3857.shp</item>
+        <item class="java.lang.String">/Users/vincenzo/Downloads/Strade3857prova.jml</item>
+        <item class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/progetto/dati/3857/Rimessa3857.shp</item>
+        <item class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/progetto/dati/3857/Strade3857.shp</item>
+      </value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_1</key>
+      <value class="java.lang.Integer">740</value>
+    </mapping>
+  </properties>
+</workbench-state>

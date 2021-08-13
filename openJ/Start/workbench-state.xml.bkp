@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench-state>
+  <properties>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.view.EasyPanelEZ_LIST_KEY</key>
+      <value class="java.util.HashMap" />
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_POINT_FORM</key>
+      <value class="java.lang.String">SQUARE</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - WIDTH_KEY</key>
+      <value class="java.lang.Integer">1280</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - HEIGHT_KEY</key>
+      <value class="java.lang.Integer">713</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">FORMAT</key>
+      <value class="java.lang.String">png</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToLineStringBeingEditedPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - FEATUREINFO_WINDOW_SIZE_WIDTH</key>
+      <value class="java.lang.Integer">550</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - VERTICAL_KEY</key>
+      <value class="java.lang.Integer">25</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.view.ViewOptionsPlugIn - SELECTION_SYNCHRONIZATION</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SELECT_NEW_GEOMETRY</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">CONSTRAIN_INCREMENTAL_ANGLE - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">CONSTRAIN_ANGLE - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datastore.ConnectionManager - CONNECTION DESCRIPTORS</key>
+      <value class="java.util.ArrayList" />
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">CONSTRAIN_LENGTH - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - DESKTOPSTATUS_DIVIDER_LOCATION</key>
+      <value class="java.lang.Integer">630</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_SIZE_WIDTH</key>
+      <value class="java.lang.Integer">500</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_POINT_SIZE</key>
+      <value class="java.lang.Integer">5</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.LoadFileDataSourceQueryChooser - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/lab/lab1/raster</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - LAYER_TOOLTIPS</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_SIZE_HEIGHT</key>
+      <value class="java.lang.Integer">300</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.SaveFileDataSourceQueryChooser - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/Users/vincenzo/eclipse-workspace</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - HORIZONTAL_KEY</key>
+      <value class="java.lang.Integer">0</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToFeaturesPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.file.open.OpenProjectWizard - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/Users/vincenzo/Desktop/prova/case</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">class com.vividsolutions.jump.workbench.ui.snap.GridRenderer - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.SaveProjectAsPlugIn - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/Users/vincenzo/Desktop/prova/case</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToGridPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SELECT_INFO_GEOMETRY</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SINGLE_EDITABLE_LAYER</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - MAXIMIZED_KEY</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToVerticesPolicy - ENABLED</key>
+      <value class="java.lang.Boolean">false</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.EditTransaction - ROLLING_BACK_INVALID_EDITS</key>
+      <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_POSITION_Y</key>
+      <value class="java.lang.Integer">124</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_POSITION_X</key>
+      <value class="java.lang.Integer">415</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_2</key>
+      <value class="java.lang.Integer">200</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_3</key>
+      <value class="java.lang.Integer">100</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_COLOR</key>
+      <value class="java.awt.Color">255, 255, 0, 255</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_4</key>
+      <value class="java.lang.Integer">100</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.file.OpenRecentPlugIn.PROJECTS</key>
+      <value class="java.util.LinkedHashSet">
+        <item class="java.lang.String">/Users/vincenzo/Desktop/prova/a.jmp</item>
+        <item class="java.lang.String">/Users/vincenzo/Desktop/prova/case/case.jmp</item>
+      </value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - FEATUREINFO_WINDOW_SIZE_HEIGHT</key>
+      <value class="java.lang.Integer">185</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - FEATUREINFO_WINDOW_POSITION_X</key>
+      <value class="java.lang.Integer">20</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - FEATUREINFO_WINDOW_POSITION_Y</key>
+      <value class="java.lang.Integer">423</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.SaveDatasetAsPlugIn - LAST FORMAT</key>
+      <value class="java.lang.String">JUMP GML</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">org.openjump.core.ui.plugin.file.OpenRecentPlugIn.FILES</key>
+      <value class="java.util.LinkedHashSet">
+        <item class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/lab/lab1/ese1/1.shp</item>
+        <item class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/lab/lab1/raster_open_jump/prova.png</item>
+        <item class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/lab/lab1/raster/nuovoRaster.txt</item>
+        <item class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/lab/lab1/raster/147040.txt</item>
+      </value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_1</key>
+      <value class="java.lang.Integer">740</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">LAST FILENAME</key>
+      <value class="java.lang.String">/Users/vincenzo/Documents/Unipd LM/sit/lab/lab1/raster_open_jump/piano_carriera_2285467_5_07-09-20_14-23-00.pdf.png</value>
+    </mapping>
+  </properties>
+</workbench-state>
