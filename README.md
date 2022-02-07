@@ -24,4 +24,4 @@ Foto BOOLEAN DEFAULT FALSE
 );
 
 # Modifica file config 
-È necessario modificare il file configDB.php
+È necessario modificare il file configDB.php, per consentire l'accesso.
